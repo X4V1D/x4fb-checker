@@ -21,9 +21,19 @@ $ ls && cd x4fb-checker && ls
 $ php x4fb-checker.php
 ```
 
-## Usage:
+## Usage :
 ```
  php x4fb-checker.php targets.txt
+```
+
+## EXTRA :
+For copy your text file sdcard to termux use this command :
+```
+cp  /sdcard/where your txt file was  /$HOME/x4fb-checker
+```
+To delete your current 'targets.txt' file use this command :
+```
+rm targets.txt
 ```
 
 ## ***Follow Me***
