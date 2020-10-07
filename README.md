@@ -7,6 +7,8 @@ X4-FB Checker is a php based script. You can use this tool for check mass facebo
 
 ## Installation :
 ```
+$ termux-setup-storage
+$ apt update && apt upgrade
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install python2
